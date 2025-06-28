@@ -1,4 +1,4 @@
-# Slicing-and-Dicing-Data-A-Pizza-Sales-Analysis
+Pizza-Sales-Analysis-Dashboard
 
 Dive into the world of pizza sales! This project involved cleaning, transforming, and analyzing a dataset to uncover valuable insights. 
 Built an interactive dashboard using Excel  to visualize sales trends, top-selling pizzas, and customer preferences.
